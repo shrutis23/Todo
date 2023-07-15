@@ -1,9 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
-// import './todo.css';
-import Temp from './component/Temp';
+import './todo.css';
+import Todo from './Todo';
 
-import Todo from './Todo'
+import './Game/G.css'
 
 
 function App() {
